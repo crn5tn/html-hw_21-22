@@ -1,0 +1,49 @@
+.title {
+    color: blue;
+    font-size: 46px;
+    text-align: center;
+}
+body {
+    font-size: 28px; 
+}
+
+#bio {
+    font-size: 36px;
+    color: darkgray;
+    text-align: justify;
+}
+body {
+    background-image: url("https://w0.peakpx.com/wallpaper/592/76/HD-wallpaper-kingdom-come-kcd-kingdom-come-deliverance.jpg");
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+body {
+    color: white; 
+}
+body {
+    font-family: 'https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap',
+}
+@font-face {
+    font-family: 'MedievalKCD';
+    src: url('CloisterBlack.ttf') format('truetype');
+}
+
+body {
+    font-family: 'MedievalKCD', serif;
+}
+
+img {
+    border: 20px solid transparent;
+    border-image: url(https://media.istockphoto.com/id/1423197560/vector/digital-illustration-hand-drawn-vintage-border-frame-engraving-ornament.jpg?s=612x612&w=0&k=20&c=7ZlmdEPSCBSFDGnZJSf31g6Xl_hdQTOURwoD3cQ-vJk=) 30 stretch;
+}

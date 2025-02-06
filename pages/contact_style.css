@@ -1,0 +1,15 @@
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/612/348/1012/kingdom-come-deliverance-artwork-knight-warrior-horse-hd-wallpaper-preview.jpg");
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.text-box {
+    align-items: center;
+    background-color: #222; 
+    color: white; 
+    padding: 20px; 
+    border-radius: 10px; 
+    max-width: 500px;
+    justify-content: center;
+}
